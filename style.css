@@ -338,7 +338,7 @@ footer{
 
 /*Phone specifications*/
 @media screen and (max-width: 600px){
-	body{
+	body, html{
 		overflow-x: hidden;
 	}
 	.head{
